@@ -1,0 +1,251 @@
+cliente_id,nombre,apellido_paterno,apellido_materno,email,telefono,ciudad,estado,codigo_postal,segmento,fecha_alta,canal_adquisicion
+CLI-100001,Ana,García,Ramírez,ana.garcía143@gmail.com,3383197857,Culiacán,Sinaloa,21395,Residencial,2021-07-03,Sucursal
+CLI-100002,Carlos,López,Pérez,carlos.lópez617@gmail.com,3385329037,Culiacán,Sinaloa,36062,PyME,2024-08-31,App Móvil
+CLI-100003,Gabriela,Díaz,Sánchez,gabriela.díaz285@gmail.com,3331429110,Morelia,Michoacán,65392,Residencial,2025-08-10,Call Center
+CLI-100004,Juan,Flores,Martínez,juan.flores100@outlook.com,3356164955,León,Guanajuato,89131,Residencial,2023-04-06,Sucursal
+CLI-100005,Rafael,Gutiérrez,Martínez,rafael.gutiérrez81@prodigy.net.mx,3349349722,Colima,Colima,92397,Residencial,2023-03-31,Distribuidor Autorizado
+CLI-100006,Adriana,Ortiz,Pérez,adriana.ortiz47@hotmail.com,3348840994,Chihuahua,Chihuahua,20458,Empresarial,2019-10-12,Distribuidor Autorizado
+CLI-100007,Ana,Gómez,Ramírez,ana.gómez167@outlook.com,3357683626,Morelia,Michoacán,37460,PyME,2023-02-03,App Móvil
+CLI-100008,José,Ramos,Rodríguez,josé.ramos168@yahoo.com.mx,3360929647,Querétaro,Querétaro,45382,Gobierno,2021-09-29,App Móvil
+CLI-100009,Gabriela,Sánchez,Flores,gabriela.sánchez235@gmail.com,3352339391,Tepic,Nayarit,62581,Residencial,2019-08-18,Call Center
+CLI-100010,Alejandro,Flores,Pérez,alejandro.flores406@yahoo.com.mx,3329175900,Puebla,Puebla,44718,Residencial,2024-08-06,App Móvil
+CLI-100011,Gabriela,Gutiérrez,Ramírez,gabriela.gutiérrez439@prodigy.net.mx,3363606628,Chihuahua,Chihuahua,57447,Residencial,2025-07-22,Call Center
+CLI-100012,Roberto,Morales,López,roberto.morales882@gmail.com,3330514014,Mazatlán,Sinaloa,92240,Residencial,2019-07-12,App Móvil
+CLI-100013,Claudia,Ramos,López,claudia.ramos611@yahoo.com.mx,3381016525,Aguascalientes,Aguascalientes,42953,Gobierno,2023-04-13,Distribuidor Autorizado
+CLI-100014,Carlos,Martínez,Gutiérrez,carlos.martínez788@outlook.com,3324972279,Mazatlán,Sinaloa,48469,Residencial,2021-12-28,Vendedor Puerta a Puerta
+CLI-100015,Carlos,Ramírez,Reyes,carlos.ramírez520@gmail.com,3393926371,Mazatlán,Sinaloa,49117,PyME,2021-01-01,Referido
+CLI-100016,Sofía,Pérez,González,sofía.pérez553@prodigy.net.mx,3310076758,Tijuana,Baja California,88504,Residencial,2020-10-23,Sucursal
+CLI-100017,Ana,Rivera,Torres,ana.rivera247@prodigy.net.mx,3320570592,Culiacán,Sinaloa,21226,PyME,2019-08-26,Distribuidor Autorizado
+CLI-100018,José,Gutiérrez,González,josé.gutiérrez970@prodigy.net.mx,3332162965,Monterrey,Nuevo León,44741,Residencial,2024-04-30,Referido
+CLI-100019,Claudia,Pérez,Gutiérrez,claudia.pérez731@outlook.com,3363551839,Mazatlán,Sinaloa,98039,Residencial,2021-04-03,Vendedor Puerta a Puerta
+CLI-100020,Roberto,Cruz,Martínez,roberto.cruz66@outlook.com,3312823170,Culiacán,Sinaloa,87110,Residencial,2021-07-09,Referido
+CLI-100021,Patricia,García,López,patricia.garcía235@gmail.com,3314216175,Chihuahua,Chihuahua,53309,Residencial,2019-08-30,Call Center
+CLI-100022,Miguel,Morales,Pérez,miguel.morales741@prodigy.net.mx,3387337818,Querétaro,Querétaro,71953,Residencial,2020-06-25,Vendedor Puerta a Puerta
+CLI-100023,Claudia,Pérez,Martínez,claudia.pérez363@yahoo.com.mx,3365177213,León,Guanajuato,71213,Empresarial,2023-11-01,Sucursal
+CLI-100024,Ana,Hernández,Gómez,ana.hernández820@gmail.com,3343374088,Chihuahua,Chihuahua,35112,Residencial,2022-10-21,Vendedor Puerta a Puerta
+CLI-100025,Luis,Díaz,Rodríguez,luis.díaz256@gmail.com,3369476001,Hermosillo,Sonora,82132,Residencial,2024-03-09,App Móvil
+CLI-100026,Gabriela,García,López,gabriela.garcía171@yahoo.com.mx,3375181648,Colima,Colima,73092,Residencial,2021-08-26,Vendedor Puerta a Puerta
+CLI-100027,María,Rodríguez,Gómez,maría.rodríguez272@yahoo.com.mx,3348285503,Guadalajara,Jalisco,65444,PyME,2023-05-19,App Móvil
+CLI-100028,Gabriela,Morales,González,gabriela.morales223@gmail.com,3387736262,Culiacán,Sinaloa,81066,Residencial,2022-04-30,Portal Web
+CLI-100029,María,Hernández,Ortiz,maría.hernández942@prodigy.net.mx,3331130263,Morelia,Michoacán,17455,Gobierno,2024-08-21,Sucursal
+CLI-100030,Guadalupe,López,Ramos,guadalupe.lópez414@gmail.com,3386460539,León,Guanajuato,42271,Residencial,2021-08-21,Sucursal
+CLI-100031,Sofía,López,Díaz,sofía.lópez579@prodigy.net.mx,3352462441,Puebla,Puebla,44179,Residencial,2025-07-18,App Móvil
+CLI-100032,Fernando,Sánchez,Ramírez,fernando.sánchez688@outlook.com,3371367643,Aguascalientes,Aguascalientes,51441,Empresarial,2020-06-20,Sucursal
+CLI-100033,Carlos,Cruz,Ramos,carlos.cruz76@prodigy.net.mx,3338609087,Mérida,Yucatán,76307,Residencial,2020-02-14,Portal Web
+CLI-100034,José,Sánchez,Rivera,josé.sánchez449@prodigy.net.mx,3350603163,Hermosillo,Sonora,90173,Gobierno,2020-10-08,Distribuidor Autorizado
+CLI-100035,Roberto,García,Gutiérrez,roberto.garcía962@hotmail.com,3345496015,Hermosillo,Sonora,25129,Empresarial,2020-02-29,App Móvil
+CLI-100036,Gabriela,González,Ramírez,gabriela.gonzález216@outlook.com,3337326368,Hermosillo,Sonora,93130,Empresarial,2025-10-13,Referido
+CLI-100037,Verónica,Ramírez,Hernández,verónica.ramírez850@outlook.com,3315917225,León,Guanajuato,10464,Residencial,2023-10-01,Call Center
+CLI-100038,Miguel,Rodríguez,Cruz,miguel.rodríguez575@gmail.com,3325015458,Querétaro,Querétaro,19862,Empresarial,2023-10-18,App Móvil
+CLI-100039,Luis,Gutiérrez,Hernández,luis.gutiérrez597@prodigy.net.mx,3329876811,Tepic,Nayarit,66333,Residencial,2023-02-21,Portal Web
+CLI-100040,Adriana,Hernández,Rivera,adriana.hernández683@gmail.com,3357469942,Culiacán,Sinaloa,83385,Empresarial,2021-10-19,Vendedor Puerta a Puerta
+CLI-100041,Sofía,González,Sánchez,sofía.gonzález820@hotmail.com,3365337219,Tepic,Nayarit,13248,Residencial,2020-10-27,Portal Web
+CLI-100042,Claudia,Sánchez,Ramírez,claudia.sánchez392@gmail.com,3373174945,Monterrey,Nuevo León,39154,Residencial,2020-03-18,Vendedor Puerta a Puerta
+CLI-100043,Adriana,Torres,Sánchez,adriana.torres676@hotmail.com,3363481198,Culiacán,Sinaloa,53025,Residencial,2019-04-07,Sucursal
+CLI-100044,Miguel,Rivera,Reyes,miguel.rivera340@gmail.com,3325480907,Aguascalientes,Aguascalientes,44237,Residencial,2025-01-05,Portal Web
+CLI-100045,María,Martínez,Ramos,maría.martínez747@outlook.com,3368571795,Aguascalientes,Aguascalientes,89457,Gobierno,2022-11-16,Sucursal
+CLI-100046,Pedro,Ortiz,Pérez,pedro.ortiz726@yahoo.com.mx,3310226999,Hermosillo,Sonora,78146,Empresarial,2019-07-01,Referido
+CLI-100047,Juan,Rivera,Díaz,juan.rivera639@outlook.com,3399038359,León,Guanajuato,26334,PyME,2022-09-14,Portal Web
+CLI-100048,Roberto,Torres,Díaz,roberto.torres714@outlook.com,3384411983,Tijuana,Baja California,26683,Residencial,2023-07-07,App Móvil
+CLI-100049,Pedro,Rodríguez,Ramos,pedro.rodríguez416@prodigy.net.mx,3310054484,Mérida,Yucatán,49829,Residencial,2022-05-17,Vendedor Puerta a Puerta
+CLI-100050,Alejandro,Ramos,Flores,alejandro.ramos453@hotmail.com,3378608612,Morelia,Michoacán,72021,PyME,2023-12-15,Distribuidor Autorizado
+CLI-100051,Guadalupe,López,Torres,guadalupe.lópez344@gmail.com,3341523529,Querétaro,Querétaro,98184,Residencial,2025-12-11,Distribuidor Autorizado
+CLI-100052,Juan,González,García,juan.gonzález487@prodigy.net.mx,3319774839,Guadalajara,Jalisco,69692,Residencial,2021-09-29,App Móvil
+CLI-100053,Alejandro,Pérez,Gómez,alejandro.pérez250@hotmail.com,3398054615,Morelia,Michoacán,10726,Empresarial,2023-06-25,Distribuidor Autorizado
+CLI-100054,Ana,Díaz,Sánchez,ana.díaz476@gmail.com,3384813739,Monterrey,Nuevo León,42662,Empresarial,2024-10-22,Sucursal
+CLI-100055,Rafael,González,Cruz,rafael.gonzález573@prodigy.net.mx,3352587010,Puebla,Puebla,68008,Residencial,2024-12-15,App Móvil
+CLI-100056,Roberto,Díaz,Gutiérrez,roberto.díaz762@yahoo.com.mx,3370407340,Morelia,Michoacán,43972,PyME,2020-10-13,Distribuidor Autorizado
+CLI-100057,Miguel,Reyes,Morales,miguel.reyes282@yahoo.com.mx,3320399639,Puebla,Puebla,47450,Residencial,2021-09-06,Portal Web
+CLI-100058,Fernando,Gutiérrez,López,fernando.gutiérrez237@yahoo.com.mx,3330509175,Monterrey,Nuevo León,38043,Residencial,2020-09-09,Vendedor Puerta a Puerta
+CLI-100059,Fernando,Gutiérrez,Cruz,fernando.gutiérrez212@yahoo.com.mx,3362274692,Aguascalientes,Aguascalientes,86556,Empresarial,2019-09-13,Sucursal
+CLI-100060,Alejandro,Gómez,Morales,alejandro.gómez306@yahoo.com.mx,3366240084,Guadalajara,Jalisco,80545,PyME,2022-12-11,Referido
+CLI-100061,Sofía,Sánchez,Morales,sofía.sánchez447@yahoo.com.mx,3313895645,Culiacán,Sinaloa,60968,Residencial,2022-01-22,App Móvil
+CLI-100062,Pedro,Rodríguez,Cruz,pedro.rodríguez638@prodigy.net.mx,3313619375,Colima,Colima,61645,Residencial,2020-06-06,App Móvil
+CLI-100063,Carlos,López,Díaz,carlos.lópez187@gmail.com,3344917589,Monterrey,Nuevo León,59689,Residencial,2024-03-06,Vendedor Puerta a Puerta
+CLI-100064,Fernando,Flores,Gómez,fernando.flores259@gmail.com,3373123515,Hermosillo,Sonora,12540,PyME,2023-09-23,Sucursal
+CLI-100065,Adriana,Sánchez,López,adriana.sánchez773@gmail.com,3343189803,Mazatlán,Sinaloa,36130,PyME,2019-06-14,Referido
+CLI-100066,Luis,Sánchez,González,luis.sánchez578@hotmail.com,3372415804,Morelia,Michoacán,43586,PyME,2020-04-13,Call Center
+CLI-100067,Sofía,Ramos,Martínez,sofía.ramos988@outlook.com,3324508768,Mazatlán,Sinaloa,85849,Residencial,2020-11-01,Portal Web
+CLI-100068,Alejandro,Gómez,Gómez,alejandro.gómez78@prodigy.net.mx,3394187049,Chihuahua,Chihuahua,41830,Residencial,2021-03-23,Distribuidor Autorizado
+CLI-100069,Rosa,Ramos,Martínez,rosa.ramos802@gmail.com,3356600900,Mazatlán,Sinaloa,79827,Residencial,2025-05-07,Portal Web
+CLI-100070,José,Reyes,Flores,josé.reyes843@yahoo.com.mx,3324165187,Guadalajara,Jalisco,66822,Gobierno,2023-09-17,App Móvil
+CLI-100071,Rafael,González,Díaz,rafael.gonzález989@outlook.com,3392666356,Monterrey,Nuevo León,80539,PyME,2024-11-07,Vendedor Puerta a Puerta
+CLI-100072,Claudia,Ortiz,Ramírez,claudia.ortiz851@gmail.com,3347437115,Tijuana,Baja California,69087,Residencial,2021-10-02,Vendedor Puerta a Puerta
+CLI-100073,Alejandro,Ramos,Gómez,alejandro.ramos507@outlook.com,3334406132,Tijuana,Baja California,73904,Residencial,2019-04-28,Distribuidor Autorizado
+CLI-100074,Miguel,Flores,Ramírez,miguel.flores719@outlook.com,3384597009,Colima,Colima,11330,Residencial,2025-09-07,Call Center
+CLI-100075,José,Sánchez,Díaz,josé.sánchez777@hotmail.com,3373900135,Morelia,Michoacán,94659,PyME,2025-03-24,Vendedor Puerta a Puerta
+CLI-100076,Carlos,López,Torres,carlos.lópez709@hotmail.com,3351098277,Culiacán,Sinaloa,97026,Residencial,2023-07-15,Vendedor Puerta a Puerta
+CLI-100077,Gabriela,Reyes,Rivera,gabriela.reyes339@outlook.com,3370900658,Aguascalientes,Aguascalientes,45509,Residencial,2025-03-04,Call Center
+CLI-100078,Ana,Pérez,Flores,ana.pérez974@hotmail.com,3335708194,León,Guanajuato,38361,PyME,2025-01-03,Portal Web
+CLI-100079,Alejandro,Reyes,Ramos,alejandro.reyes853@hotmail.com,3349761527,Hermosillo,Sonora,39816,Residencial,2020-02-16,Portal Web
+CLI-100080,Carlos,Gutiérrez,González,carlos.gutiérrez998@gmail.com,3384270583,Hermosillo,Sonora,48290,PyME,2019-07-06,Call Center
+CLI-100081,Verónica,Martínez,García,verónica.martínez481@yahoo.com.mx,3369118721,Mérida,Yucatán,54657,Residencial,2022-03-10,Sucursal
+CLI-100082,Miguel,Morales,Martínez,miguel.morales411@yahoo.com.mx,3319943140,Tepic,Nayarit,85631,Residencial,2019-09-25,Sucursal
+CLI-100083,Luis,González,Ortiz,luis.gonzález255@gmail.com,3384903294,Hermosillo,Sonora,64548,Residencial,2019-12-15,Distribuidor Autorizado
+CLI-100084,Sofía,Sánchez,Reyes,sofía.sánchez931@yahoo.com.mx,3349910061,Aguascalientes,Aguascalientes,87139,Gobierno,2024-01-20,Portal Web
+CLI-100085,Alejandro,Ramos,Hernández,alejandro.ramos971@hotmail.com,3393955206,Mérida,Yucatán,37659,Residencial,2020-02-11,Sucursal
+CLI-100086,Guadalupe,Sánchez,Rodríguez,guadalupe.sánchez161@gmail.com,3364830300,Querétaro,Querétaro,69048,PyME,2019-11-04,Vendedor Puerta a Puerta
+CLI-100087,Rosa,Hernández,Sánchez,rosa.hernández720@yahoo.com.mx,3319553585,Hermosillo,Sonora,40595,Empresarial,2022-03-04,Distribuidor Autorizado
+CLI-100088,Alejandro,Pérez,Díaz,alejandro.pérez231@hotmail.com,3345652586,León,Guanajuato,28643,Residencial,2025-02-08,Call Center
+CLI-100089,Rosa,Ramos,Ortiz,rosa.ramos450@gmail.com,3372907576,Colima,Colima,49857,PyME,2022-03-28,Portal Web
+CLI-100090,Roberto,Gutiérrez,Morales,roberto.gutiérrez613@gmail.com,3367985905,Morelia,Michoacán,52247,Residencial,2019-11-26,Sucursal
+CLI-100091,José,Sánchez,Ortiz,josé.sánchez784@outlook.com,3387342561,Mérida,Yucatán,15273,PyME,2019-03-26,Call Center
+CLI-100092,Verónica,Reyes,Cruz,verónica.reyes186@prodigy.net.mx,3368503492,Colima,Colima,93202,PyME,2022-02-13,Sucursal
+CLI-100093,Verónica,Rivera,Díaz,verónica.rivera687@gmail.com,3331585546,Tijuana,Baja California,53228,Residencial,2022-08-08,Vendedor Puerta a Puerta
+CLI-100094,Rosa,Gómez,Gutiérrez,rosa.gómez91@outlook.com,3343876400,Guadalajara,Jalisco,52372,Residencial,2024-02-06,Distribuidor Autorizado
+CLI-100095,Pedro,Reyes,García,pedro.reyes474@yahoo.com.mx,3317275149,Puebla,Puebla,34586,Residencial,2025-01-31,Referido
+CLI-100096,Verónica,Cruz,Hernández,verónica.cruz563@hotmail.com,3348658617,Culiacán,Sinaloa,67424,Empresarial,2021-12-29,Vendedor Puerta a Puerta
+CLI-100097,Ana,García,Ramos,ana.garcía727@hotmail.com,3351708177,Mazatlán,Sinaloa,82199,Residencial,2021-09-07,Vendedor Puerta a Puerta
+CLI-100098,José,Sánchez,Martínez,josé.sánchez664@hotmail.com,3376890827,Morelia,Michoacán,48254,Residencial,2020-04-26,Portal Web
+CLI-100099,Claudia,Morales,Morales,claudia.morales565@hotmail.com,3361484043,Culiacán,Sinaloa,34983,Empresarial,2024-02-14,Referido
+CLI-100100,Luis,López,Ramírez,luis.lópez349@prodigy.net.mx,3345859307,Mazatlán,Sinaloa,10336,Residencial,2023-08-27,Portal Web
+CLI-100101,Alejandro,Ortiz,Morales,alejandro.ortiz458@prodigy.net.mx,3375007200,Tepic,Nayarit,55236,Residencial,2020-08-31,Distribuidor Autorizado
+CLI-100102,Gabriela,Gómez,Cruz,gabriela.gómez891@hotmail.com,3342051937,Colima,Colima,84946,Residencial,2022-08-11,Distribuidor Autorizado
+CLI-100103,Claudia,Hernández,Flores,claudia.hernández723@yahoo.com.mx,3361818612,Chihuahua,Chihuahua,96991,PyME,2024-04-21,App Móvil
+CLI-100104,Luis,Morales,Hernández,luis.morales989@prodigy.net.mx,3354559574,Monterrey,Nuevo León,23154,Empresarial,2024-08-19,Vendedor Puerta a Puerta
+CLI-100105,Ana,Reyes,Cruz,ana.reyes420@hotmail.com,3320043277,Guadalajara,Jalisco,71537,PyME,2020-08-13,Portal Web
+CLI-100106,Fernando,Ramos,Gómez,fernando.ramos873@outlook.com,3381621574,Puebla,Puebla,59808,Gobierno,2019-11-25,App Móvil
+CLI-100107,Verónica,Gutiérrez,Hernández,verónica.gutiérrez241@outlook.com,3340532691,Mérida,Yucatán,21846,Residencial,2019-10-08,Sucursal
+CLI-100108,Ana,Cruz,Rodríguez,ana.cruz926@gmail.com,3316172803,Chihuahua,Chihuahua,52516,PyME,2022-05-11,Portal Web
+CLI-100109,Adriana,Rivera,Díaz,adriana.rivera544@yahoo.com.mx,3385957578,Monterrey,Nuevo León,99364,PyME,2021-09-27,Call Center
+CLI-100110,Guadalupe,López,Ramos,guadalupe.lópez635@hotmail.com,3376795767,Tepic,Nayarit,86435,Residencial,2023-04-16,Vendedor Puerta a Puerta
+CLI-100111,Miguel,Cruz,Ramírez,miguel.cruz921@yahoo.com.mx,3348605268,Puebla,Puebla,98815,Residencial,2019-02-08,Sucursal
+CLI-100112,Rafael,Rivera,Ortiz,rafael.rivera707@outlook.com,3371315464,Hermosillo,Sonora,49599,Residencial,2023-10-04,Vendedor Puerta a Puerta
+CLI-100113,Verónica,Martínez,Sánchez,verónica.martínez368@prodigy.net.mx,3349711319,Aguascalientes,Aguascalientes,48696,Residencial,2025-05-31,Distribuidor Autorizado
+CLI-100114,Pedro,Ramírez,García,pedro.ramírez933@prodigy.net.mx,3376669607,Mérida,Yucatán,47512,PyME,2019-07-20,Call Center
+CLI-100115,Sofía,Rivera,Sánchez,sofía.rivera636@outlook.com,3398473848,Puebla,Puebla,99241,PyME,2021-02-17,App Móvil
+CLI-100116,Ana,Hernández,Torres,ana.hernández35@prodigy.net.mx,3358970845,Mazatlán,Sinaloa,27224,Residencial,2023-12-11,Portal Web
+CLI-100117,Fernando,Díaz,Rodríguez,fernando.díaz806@prodigy.net.mx,3359104566,Culiacán,Sinaloa,79579,Residencial,2020-06-25,Portal Web
+CLI-100118,Guadalupe,Ramírez,Morales,guadalupe.ramírez765@outlook.com,3325457816,Mazatlán,Sinaloa,71385,Gobierno,2022-04-23,Call Center
+CLI-100119,Patricia,Gómez,Gutiérrez,patricia.gómez810@yahoo.com.mx,3311868130,Tijuana,Baja California,44663,Residencial,2020-01-05,Vendedor Puerta a Puerta
+CLI-100120,Adriana,Ramírez,Ortiz,adriana.ramírez111@hotmail.com,3373280554,Aguascalientes,Aguascalientes,13280,Residencial,2023-03-02,Referido
+CLI-100121,Fernando,Ramos,Sánchez,fernando.ramos651@yahoo.com.mx,3350559278,Puebla,Puebla,95097,Residencial,2019-09-16,Call Center
+CLI-100122,María,Hernández,Torres,maría.hernández100@hotmail.com,3382148284,Morelia,Michoacán,27781,Residencial,2020-04-20,Portal Web
+CLI-100123,Gabriela,Díaz,Ortiz,gabriela.díaz907@yahoo.com.mx,3397902129,Chihuahua,Chihuahua,22978,PyME,2020-09-24,Referido
+CLI-100124,Claudia,Ramírez,Hernández,claudia.ramírez223@yahoo.com.mx,3369686067,Chihuahua,Chihuahua,40947,Empresarial,2023-02-26,Sucursal
+CLI-100125,Adriana,Gutiérrez,Rivera,adriana.gutiérrez283@hotmail.com,3326395999,Guadalajara,Jalisco,69600,Residencial,2023-06-19,Call Center
+CLI-100126,Sofía,García,Hernández,sofía.garcía250@hotmail.com,3385776373,Mazatlán,Sinaloa,36896,Residencial,2022-09-28,Distribuidor Autorizado
+CLI-100127,Gabriela,Pérez,Ortiz,gabriela.pérez337@hotmail.com,3389991301,Culiacán,Sinaloa,10371,Residencial,2021-08-12,Call Center
+CLI-100128,Luis,Gutiérrez,Ramírez,luis.gutiérrez113@gmail.com,3327690330,Mazatlán,Sinaloa,11947,Residencial,2020-12-15,Distribuidor Autorizado
+CLI-100129,Patricia,Ortiz,Flores,patricia.ortiz272@gmail.com,3327013243,Guadalajara,Jalisco,65176,Residencial,2020-12-14,App Móvil
+CLI-100130,José,Morales,Cruz,josé.morales526@prodigy.net.mx,3324636981,Mazatlán,Sinaloa,69245,Residencial,2023-01-22,Referido
+CLI-100131,María,Reyes,Torres,maría.reyes63@yahoo.com.mx,3363904155,Morelia,Michoacán,65872,PyME,2019-05-08,Vendedor Puerta a Puerta
+CLI-100132,Rafael,López,López,rafael.lópez152@gmail.com,3326937148,Tijuana,Baja California,46046,Residencial,2025-10-27,Referido
+CLI-100133,Gabriela,Flores,Gómez,gabriela.flores302@yahoo.com.mx,3377853916,Mérida,Yucatán,89354,Residencial,2024-12-13,Distribuidor Autorizado
+CLI-100134,Ana,Gutiérrez,Pérez,ana.gutiérrez910@hotmail.com,3365541117,Aguascalientes,Aguascalientes,54424,PyME,2024-01-24,Vendedor Puerta a Puerta
+CLI-100135,Claudia,Martínez,Flores,claudia.martínez682@outlook.com,3360237832,Aguascalientes,Aguascalientes,30006,PyME,2022-07-04,Vendedor Puerta a Puerta
+CLI-100136,José,López,López,josé.lópez99@outlook.com,3327463800,León,Guanajuato,82924,Residencial,2023-11-04,Referido
+CLI-100137,Gabriela,Flores,Martínez,gabriela.flores895@yahoo.com.mx,3316904975,Aguascalientes,Aguascalientes,47700,Residencial,2022-12-19,Portal Web
+CLI-100138,Ana,Ortiz,Reyes,ana.ortiz673@yahoo.com.mx,3340097636,Culiacán,Sinaloa,24184,Residencial,2020-09-25,Referido
+CLI-100139,Adriana,Martínez,Ramírez,adriana.martínez827@yahoo.com.mx,3385291541,Mérida,Yucatán,91490,Residencial,2021-07-15,App Móvil
+CLI-100140,Gabriela,García,Ramos,gabriela.garcía30@hotmail.com,3346677730,Colima,Colima,50499,Empresarial,2021-12-31,Portal Web
+CLI-100141,Carlos,Rodríguez,González,carlos.rodríguez72@hotmail.com,3394982908,Mérida,Yucatán,14018,Residencial,2023-06-30,Referido
+CLI-100142,Juan,Gómez,Díaz,juan.gómez162@outlook.com,3351827259,Morelia,Michoacán,52517,PyME,2022-10-28,Referido
+CLI-100143,Sofía,López,Hernández,sofía.lópez773@prodigy.net.mx,3316679008,Monterrey,Nuevo León,98338,Residencial,2020-10-06,Vendedor Puerta a Puerta
+CLI-100144,Claudia,Morales,Ramos,claudia.morales280@hotmail.com,3378765957,Morelia,Michoacán,24918,Residencial,2023-08-24,Sucursal
+CLI-100145,Rosa,Ortiz,Morales,rosa.ortiz47@hotmail.com,3363051354,Querétaro,Querétaro,88554,Residencial,2022-06-17,Call Center
+CLI-100146,Rosa,Pérez,González,rosa.pérez297@outlook.com,3326104026,Mazatlán,Sinaloa,11013,Residencial,2021-11-12,Vendedor Puerta a Puerta
+CLI-100147,Guadalupe,González,Gómez,guadalupe.gonzález513@prodigy.net.mx,3399663907,Querétaro,Querétaro,56421,Residencial,2021-07-31,Distribuidor Autorizado
+CLI-100148,María,Díaz,García,maría.díaz883@outlook.com,3387277086,Morelia,Michoacán,66267,Residencial,2019-11-15,App Móvil
+CLI-100149,Claudia,Torres,Martínez,claudia.torres990@outlook.com,3333068427,Aguascalientes,Aguascalientes,91018,Residencial,2019-03-27,App Móvil
+CLI-100150,Adriana,López,Díaz,adriana.lópez250@yahoo.com.mx,3389036966,Tepic,Nayarit,62487,Residencial,2020-03-09,Vendedor Puerta a Puerta
+CLI-100151,Rosa,Flores,Sánchez,rosa.flores79@prodigy.net.mx,3394989976,Tijuana,Baja California,24945,Residencial,2020-11-19,Call Center
+CLI-100152,Adriana,Rivera,González,adriana.rivera150@outlook.com,3336477373,Culiacán,Sinaloa,32740,Residencial,2020-02-26,Distribuidor Autorizado
+CLI-100153,José,Rodríguez,Morales,josé.rodríguez779@prodigy.net.mx,3370251043,Morelia,Michoacán,99277,Empresarial,2025-04-28,Referido
+CLI-100154,Sofía,Flores,Flores,sofía.flores70@yahoo.com.mx,3369352161,Monterrey,Nuevo León,92756,Residencial,2023-12-07,Portal Web
+CLI-100155,Alejandro,Hernández,Rivera,alejandro.hernández318@yahoo.com.mx,3370654852,Querétaro,Querétaro,14929,Residencial,2019-10-31,Distribuidor Autorizado
+CLI-100156,Rosa,López,López,rosa.lópez520@yahoo.com.mx,3372104107,Mérida,Yucatán,86064,Residencial,2025-08-30,Distribuidor Autorizado
+CLI-100157,María,Cruz,Ortiz,maría.cruz330@prodigy.net.mx,3373837847,Puebla,Puebla,75715,Residencial,2021-02-10,Sucursal
+CLI-100158,Rafael,Martínez,Flores,rafael.martínez517@hotmail.com,3315253567,Chihuahua,Chihuahua,42472,PyME,2019-12-12,Vendedor Puerta a Puerta
+CLI-100159,Roberto,Reyes,Ramos,roberto.reyes382@outlook.com,3361998170,Monterrey,Nuevo León,63578,PyME,2023-01-30,App Móvil
+CLI-100160,Sofía,Hernández,Flores,sofía.hernández97@prodigy.net.mx,3361883769,León,Guanajuato,47243,Residencial,2022-09-12,Distribuidor Autorizado
+CLI-100161,Sofía,González,Flores,sofía.gonzález680@hotmail.com,3356952151,León,Guanajuato,50662,Gobierno,2025-07-14,App Móvil
+CLI-100162,Pedro,González,Ramos,pedro.gonzález318@prodigy.net.mx,3360557040,Chihuahua,Chihuahua,94343,PyME,2019-12-14,Distribuidor Autorizado
+CLI-100163,Luis,Reyes,López,luis.reyes521@outlook.com,3312446861,Puebla,Puebla,57526,Residencial,2023-10-01,Call Center
+CLI-100164,Fernando,Morales,Pérez,fernando.morales159@gmail.com,3349700543,Culiacán,Sinaloa,23256,Residencial,2020-07-17,Referido
+CLI-100165,Roberto,Hernández,Flores,roberto.hernández135@prodigy.net.mx,3360562485,Colima,Colima,30218,Residencial,2025-12-06,Distribuidor Autorizado
+CLI-100166,Sofía,Rodríguez,Cruz,sofía.rodríguez374@hotmail.com,3369619341,Guadalajara,Jalisco,90031,Residencial,2023-08-10,App Móvil
+CLI-100167,Rafael,Sánchez,Gutiérrez,rafael.sánchez989@yahoo.com.mx,3336040410,Culiacán,Sinaloa,58213,PyME,2022-06-21,Referido
+CLI-100168,Rafael,Cruz,Torres,rafael.cruz515@prodigy.net.mx,3366191704,Mazatlán,Sinaloa,31241,PyME,2023-04-14,Distribuidor Autorizado
+CLI-100169,Sofía,González,Ramírez,sofía.gonzález896@outlook.com,3384429198,Guadalajara,Jalisco,23446,PyME,2024-05-22,Referido
+CLI-100170,Ana,Torres,López,ana.torres280@yahoo.com.mx,3378901038,Mazatlán,Sinaloa,29313,PyME,2020-10-18,Sucursal
+CLI-100171,Patricia,Cruz,Rivera,patricia.cruz425@gmail.com,3363211150,Colima,Colima,75799,Residencial,2019-04-20,Vendedor Puerta a Puerta
+CLI-100172,José,Rivera,Sánchez,josé.rivera954@gmail.com,3397236246,Guadalajara,Jalisco,53947,PyME,2022-07-29,Call Center
+CLI-100173,María,Torres,Morales,maría.torres778@yahoo.com.mx,3370210270,Chihuahua,Chihuahua,90654,Residencial,2020-07-22,Sucursal
+CLI-100174,Carlos,Ramírez,Pérez,carlos.ramírez562@prodigy.net.mx,3380836292,Tepic,Nayarit,65476,Residencial,2020-09-04,Portal Web
+CLI-100175,Patricia,Torres,Martínez,patricia.torres430@prodigy.net.mx,3371352751,Guadalajara,Jalisco,18232,Residencial,2021-09-03,Vendedor Puerta a Puerta
+CLI-100176,Sofía,Gutiérrez,García,sofía.gutiérrez589@hotmail.com,3329270557,Puebla,Puebla,48177,Residencial,2024-10-11,Referido
+CLI-100177,Adriana,Sánchez,Ortiz,adriana.sánchez681@gmail.com,3380260907,Aguascalientes,Aguascalientes,57265,Residencial,2021-02-06,Referido
+CLI-100178,Gabriela,Reyes,Reyes,gabriela.reyes400@yahoo.com.mx,3315843091,Querétaro,Querétaro,93318,Residencial,2019-03-25,Portal Web
+CLI-100179,Miguel,García,Rivera,miguel.garcía354@hotmail.com,3398195059,Mazatlán,Sinaloa,92346,Residencial,2019-10-04,Referido
+CLI-100180,Fernando,González,Hernández,fernando.gonzález347@hotmail.com,3372360629,Tijuana,Baja California,72722,Residencial,2025-02-14,Distribuidor Autorizado
+CLI-100181,Luis,López,Cruz,luis.lópez207@gmail.com,3336772387,Guadalajara,Jalisco,15492,Residencial,2022-04-16,Portal Web
+CLI-100182,Roberto,Gómez,Gutiérrez,roberto.gómez38@hotmail.com,3348401154,Morelia,Michoacán,56789,Empresarial,2021-11-03,Sucursal
+CLI-100183,Fernando,Ramírez,Martínez,fernando.ramírez448@yahoo.com.mx,3369020451,Mazatlán,Sinaloa,60678,Residencial,2023-02-16,Call Center
+CLI-100184,Verónica,Morales,Rivera,verónica.morales274@gmail.com,3366975380,Colima,Colima,20345,Residencial,2024-10-27,Distribuidor Autorizado
+CLI-100185,Guadalupe,Gutiérrez,Torres,guadalupe.gutiérrez82@outlook.com,3398707076,Tijuana,Baja California,48750,Residencial,2020-02-25,Referido
+CLI-100186,Claudia,Rodríguez,Cruz,claudia.rodríguez44@outlook.com,3392523968,Tijuana,Baja California,67008,Residencial,2024-01-06,Distribuidor Autorizado
+CLI-100187,María,López,Gómez,maría.lópez821@hotmail.com,3314179623,Tijuana,Baja California,28714,PyME,2024-10-02,App Móvil
+CLI-100188,Rafael,Hernández,González,rafael.hernández798@outlook.com,3358607028,León,Guanajuato,60181,Empresarial,2021-08-24,Sucursal
+CLI-100189,Sofía,González,Cruz,sofía.gonzález455@gmail.com,3387030477,Tijuana,Baja California,28047,Residencial,2023-03-04,Vendedor Puerta a Puerta
+CLI-100190,Fernando,Ramírez,Sánchez,fernando.ramírez754@hotmail.com,3376980546,León,Guanajuato,77861,Residencial,2019-04-17,Referido
+CLI-100191,Ana,Ramírez,Ramírez,ana.ramírez220@prodigy.net.mx,3348329479,Chihuahua,Chihuahua,74382,Residencial,2024-01-02,Call Center
+CLI-100192,José,Cruz,Rodríguez,josé.cruz90@outlook.com,3399635939,Colima,Colima,55537,PyME,2023-12-29,Referido
+CLI-100193,Gabriela,Torres,Torres,gabriela.torres729@hotmail.com,3358518659,Tepic,Nayarit,76683,Residencial,2020-10-07,Call Center
+CLI-100194,Luis,Sánchez,Morales,luis.sánchez568@prodigy.net.mx,3359514418,Guadalajara,Jalisco,71263,PyME,2023-01-18,Referido
+CLI-100195,Luis,Ramos,López,luis.ramos408@yahoo.com.mx,3380557676,León,Guanajuato,63843,PyME,2022-06-20,Distribuidor Autorizado
+CLI-100196,Alejandro,López,González,alejandro.lópez461@yahoo.com.mx,3379438885,Tijuana,Baja California,55156,Residencial,2019-10-31,Distribuidor Autorizado
+CLI-100197,Gabriela,Ortiz,Rodríguez,gabriela.ortiz444@prodigy.net.mx,3317437386,Mazatlán,Sinaloa,26274,Residencial,2020-06-12,Portal Web
+CLI-100198,Guadalupe,Rodríguez,Flores,guadalupe.rodríguez355@prodigy.net.mx,3348124318,Colima,Colima,20336,Residencial,2021-07-12,App Móvil
+CLI-100199,Gabriela,Ramírez,González,gabriela.ramírez630@prodigy.net.mx,3322539748,Puebla,Puebla,75873,Residencial,2022-05-25,Referido
+CLI-100200,Alejandro,González,Rodríguez,alejandro.gonzález346@prodigy.net.mx,3315529005,Puebla,Puebla,13718,Residencial,2025-10-14,App Móvil
+CLI-100201,Alejandro,Ramírez,Pérez,alejandro.ramírez427@prodigy.net.mx,3395763946,Mazatlán,Sinaloa,13969,Residencial,2025-06-01,App Móvil
+CLI-100202,Gabriela,Torres,Torres,gabriela.torres825@yahoo.com.mx,3349920898,Morelia,Michoacán,69446,Residencial,2021-09-30,Sucursal
+CLI-100203,Guadalupe,Cruz,Díaz,guadalupe.cruz209@outlook.com,3391424562,Morelia,Michoacán,28830,Residencial,2024-03-17,App Móvil
+CLI-100204,Fernando,Rivera,Gómez,fernando.rivera528@prodigy.net.mx,3324251766,Monterrey,Nuevo León,51827,Residencial,2023-02-26,Sucursal
+CLI-100205,Miguel,Cruz,Sánchez,miguel.cruz52@outlook.com,3361559717,Monterrey,Nuevo León,90658,Residencial,2020-02-01,Distribuidor Autorizado
+CLI-100206,Guadalupe,Flores,Ortiz,guadalupe.flores195@hotmail.com,3376876068,Chihuahua,Chihuahua,77466,Residencial,2022-07-04,Portal Web
+CLI-100207,Verónica,García,López,verónica.garcía469@hotmail.com,3338876195,Aguascalientes,Aguascalientes,86460,Residencial,2024-09-01,Sucursal
+CLI-100208,Rosa,Morales,Ramos,rosa.morales293@prodigy.net.mx,3311097552,Colima,Colima,24089,Residencial,2024-04-11,Portal Web
+CLI-100209,Adriana,Gómez,Rivera,adriana.gómez53@prodigy.net.mx,3385405783,Guadalajara,Jalisco,35513,Residencial,2023-06-29,Portal Web
+CLI-100210,José,Gómez,Reyes,josé.gómez287@prodigy.net.mx,3392012822,Morelia,Michoacán,25572,Residencial,2025-03-02,Sucursal
+CLI-100211,Pedro,Rivera,Flores,pedro.rivera774@hotmail.com,3336717096,Querétaro,Querétaro,88966,Residencial,2023-02-06,Referido
+CLI-100212,María,Hernández,Hernández,maría.hernández824@yahoo.com.mx,3379703656,Monterrey,Nuevo León,69898,Residencial,2022-09-26,Referido
+CLI-100213,Luis,Flores,Ramos,luis.flores403@prodigy.net.mx,3350162553,Tijuana,Baja California,87820,Residencial,2020-10-27,Distribuidor Autorizado
+CLI-100214,Roberto,Gutiérrez,Morales,roberto.gutiérrez307@yahoo.com.mx,3312232974,Chihuahua,Chihuahua,58281,Residencial,2025-04-24,Sucursal
+CLI-100215,Claudia,Ortiz,Torres,claudia.ortiz612@yahoo.com.mx,3345638891,Mazatlán,Sinaloa,95929,PyME,2019-04-20,Distribuidor Autorizado
+CLI-100216,Alejandro,Ortiz,Sánchez,alejandro.ortiz598@yahoo.com.mx,3332885741,Chihuahua,Chihuahua,78712,Residencial,2019-07-30,Referido
+CLI-100217,Pedro,González,Sánchez,pedro.gonzález971@gmail.com,3335606639,Guadalajara,Jalisco,12482,Residencial,2025-06-03,Vendedor Puerta a Puerta
+CLI-100218,Luis,Díaz,Pérez,luis.díaz794@prodigy.net.mx,3373297813,Aguascalientes,Aguascalientes,18163,PyME,2024-08-17,Referido
+CLI-100219,Juan,Gutiérrez,Flores,juan.gutiérrez539@yahoo.com.mx,3352111160,Puebla,Puebla,32699,Residencial,2024-05-13,Referido
+CLI-100220,Fernando,Gutiérrez,Rivera,fernando.gutiérrez625@yahoo.com.mx,3335805259,Puebla,Puebla,42311,Residencial,2021-12-18,Portal Web
+CLI-100221,Patricia,Torres,Torres,patricia.torres707@yahoo.com.mx,3352552488,Chihuahua,Chihuahua,72888,Residencial,2021-04-29,Distribuidor Autorizado
+CLI-100222,Miguel,Torres,Martínez,miguel.torres389@yahoo.com.mx,3356323191,Mérida,Yucatán,29198,Residencial,2025-02-02,Portal Web
+CLI-100223,José,Rivera,Cruz,josé.rivera766@yahoo.com.mx,3338720823,Puebla,Puebla,36485,PyME,2021-11-16,Portal Web
+CLI-100224,Gabriela,Ramírez,González,gabriela.ramírez759@prodigy.net.mx,3342115895,León,Guanajuato,41779,Residencial,2025-11-26,Referido
+CLI-100225,Patricia,Sánchez,Hernández,patricia.sánchez339@yahoo.com.mx,3323494908,León,Guanajuato,99285,PyME,2023-08-20,Sucursal
+CLI-100226,Gabriela,Rodríguez,Díaz,gabriela.rodríguez489@hotmail.com,3348553376,Puebla,Puebla,52096,Residencial,2024-05-02,Sucursal
+CLI-100227,José,Ortiz,Sánchez,josé.ortiz936@hotmail.com,3366087572,Querétaro,Querétaro,33040,Empresarial,2019-06-02,Sucursal
+CLI-100228,Pedro,Morales,Rodríguez,pedro.morales898@gmail.com,3311243818,Colima,Colima,49110,Residencial,2022-03-31,Sucursal
+CLI-100229,Fernando,Torres,Cruz,fernando.torres537@yahoo.com.mx,3328012011,Puebla,Puebla,76088,Residencial,2025-02-03,Call Center
+CLI-100230,Ana,Flores,Rodríguez,ana.flores664@outlook.com,3334991216,Chihuahua,Chihuahua,11846,PyME,2024-02-23,Distribuidor Autorizado
+CLI-100231,Rosa,Ortiz,Pérez,rosa.ortiz877@yahoo.com.mx,3367405358,Monterrey,Nuevo León,77538,Residencial,2025-11-07,Vendedor Puerta a Puerta
+CLI-100232,Ana,Rodríguez,González,ana.rodríguez959@hotmail.com,3310916723,Morelia,Michoacán,44181,Residencial,2022-08-18,Vendedor Puerta a Puerta
+CLI-100233,Miguel,Flores,Torres,miguel.flores12@outlook.com,3397735896,Mérida,Yucatán,57127,PyME,2025-06-04,Sucursal
+CLI-100234,Ana,Cruz,Torres,ana.cruz703@prodigy.net.mx,3351738753,Monterrey,Nuevo León,25389,Residencial,2023-07-19,Portal Web
+CLI-100235,Adriana,Ramos,Sánchez,adriana.ramos490@hotmail.com,3371066203,Culiacán,Sinaloa,89395,Residencial,2020-07-01,App Móvil
+CLI-100236,Gabriela,Morales,Gutiérrez,gabriela.morales781@hotmail.com,3389968863,Mazatlán,Sinaloa,20730,Residencial,2021-06-13,Referido
+CLI-100237,Adriana,López,Ortiz,adriana.lópez849@prodigy.net.mx,3377845324,León,Guanajuato,36497,Residencial,2019-09-10,Call Center
+CLI-100238,Guadalupe,Flores,Reyes,guadalupe.flores697@hotmail.com,3388268756,Morelia,Michoacán,74071,Residencial,2020-04-21,Referido
+CLI-100239,Rafael,Hernández,Cruz,rafael.hernández426@yahoo.com.mx,3385686878,Monterrey,Nuevo León,17567,Residencial,2024-10-03,App Móvil
+CLI-100240,Rosa,García,Gómez,rosa.garcía764@hotmail.com,3387619624,Hermosillo,Sonora,19572,Residencial,2019-01-13,Portal Web
+CLI-100241,José,Gutiérrez,Hernández,josé.gutiérrez957@yahoo.com.mx,3314259382,Colima,Colima,47629,Residencial,2019-10-10,Distribuidor Autorizado
+CLI-100242,Luis,Díaz,Rivera,luis.díaz460@yahoo.com.mx,3360418290,Colima,Colima,20518,PyME,2023-04-16,App Móvil
+CLI-100243,Gabriela,González,Rivera,gabriela.gonzález551@yahoo.com.mx,3380980044,León,Guanajuato,26691,PyME,2021-01-01,Call Center
+CLI-100244,Carlos,García,Torres,carlos.garcía435@prodigy.net.mx,3360905625,Morelia,Michoacán,40102,Residencial,2025-02-08,Portal Web
+CLI-100245,Luis,Ramírez,Pérez,luis.ramírez33@yahoo.com.mx,3392533595,Colima,Colima,12050,Residencial,2020-04-07,Sucursal
+CLI-100246,Ana,Ramos,Hernández,ana.ramos689@gmail.com,3342847661,Morelia,Michoacán,15798,Residencial,2025-09-14,Call Center
+CLI-100247,Gabriela,Pérez,Hernández,gabriela.pérez297@hotmail.com,3387324220,Monterrey,Nuevo León,51799,Residencial,2024-08-25,Distribuidor Autorizado
+CLI-100248,Fernando,Sánchez,Torres,fernando.sánchez677@prodigy.net.mx,3339667854,Colima,Colima,64206,Residencial,2020-08-09,Sucursal
+CLI-100249,Gabriela,Ortiz,Rodríguez,gabriela.ortiz570@yahoo.com.mx,3316292676,Puebla,Puebla,55143,Empresarial,2023-10-16,App Móvil
+CLI-100250,Pedro,Reyes,Flores,pedro.reyes419@hotmail.com,3350250352,Chihuahua,Chihuahua,59343,Residencial,2023-09-02,Referido

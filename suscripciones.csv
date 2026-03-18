@@ -1,0 +1,251 @@
+suscripcion_id,cliente_id,paquete,plan_internet,plan_tv,plan_telefonia,addon_1,addon_2,precio_mensual_mxn,estatus,motivo_cancelacion,fecha_inicio,fecha_fin,contrato_meses
+SUS-200001,CLI-100122,Triple Play Básico,100 Mbps,TV Básico (80 canales),Nacional + 100 min LD,Ninguno,WiFi Mesh Extender,722.8,En Instalación,N/A,2023-05-16,,24
+SUS-200002,CLI-100143,Solo Internet,500 Mbps,N/A,N/A,Paramount+,Ninguno,322.72,Activo,N/A,2022-09-21,,24
+SUS-200003,CLI-100217,Doble Play TV+Internet,500 Mbps,TV Premium (200+ canales),N/A,HBO Max,Ninguno,629.88,Activo,N/A,2022-02-19,,6
+SUS-200004,CLI-100049,Solo Internet,10 Mbps,N/A,N/A,Velocidad Extra 50Mbps,Ninguno,362.54,Cancelado,Cambio a competencia,2022-06-07,2023-07-12,12
+SUS-200005,CLI-100247,Solo TV,N/A,TV Básico (80 canales),N/A,Star+,Seguridad Digital,348.16,Activo,N/A,2025-05-15,,12
+SUS-200006,CLI-100142,Doble Play TV+Internet,50 Mbps,TV Estándar (120 canales),N/A,Velocidad Extra 50Mbps,Ninguno,602.84,Cancelado,Cambio a competencia,2024-04-08,2025-05-18,24
+SUS-200007,CLI-100120,Triple Play Premium,50 Mbps,TV Estándar (120 canales),Nacional Ilimitado,WiFi Mesh Extender,Star+,917.29,En Instalación,N/A,2025-04-07,,12
+SUS-200008,CLI-100190,Triple Play Básico,50 Mbps,TV Básico (80 canales),Nacional Ilimitado,Paramount+,Ninguno,769.94,Activo,N/A,2024-09-06,,12
+SUS-200009,CLI-100128,Solo Internet,100 Mbps,N/A,N/A,Paramount+,Velocidad Extra 50Mbps,349.47,Cancelado,No proporcionado,2023-10-14,2025-05-28,18
+SUS-200010,CLI-100044,Triple Play Básico,200 Mbps,TV Básico (80 canales),Local Ilimitado,Disney+,DVR en la Nube,882.56,Cancelado,No proporcionado,2025-06-23,2025-11-20,6
+SUS-200011,CLI-100196,Triple Play Premium,20 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Netflix,HBO Max,1048.28,Activo,N/A,2022-08-05,,24
+SUS-200012,CLI-100169,Doble Play Internet+Teléfono,10 Mbps,N/A,Nacional + 100 min LD,DVR en la Nube,Ninguno,615.66,Activo,N/A,2025-12-19,,18
+SUS-200013,CLI-100005,Solo Internet,10 Mbps,N/A,N/A,WiFi Mesh Extender,Disney+,574.41,En Instalación,N/A,2024-10-29,,12
+SUS-200014,CLI-100062,Triple Play Básico,10 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Ninguno,Ninguno,736.7,Suspendido,N/A,2022-10-30,2024-03-09,12
+SUS-200015,CLI-100179,Triple Play Básico,10 Mbps,TV Básico (80 canales),Nacional Ilimitado,Soporte VIP,Soporte VIP,712.78,Activo,N/A,2020-11-26,,24
+SUS-200016,CLI-100015,Solo TV,N/A,TV Estándar (120 canales),N/A,Netflix,Ninguno,410.23,Activo,N/A,2021-12-02,,18
+SUS-200017,CLI-100145,Triple Play Premium,500 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Star+,Ninguno,1007.44,En Instalación,N/A,2020-06-23,,6
+SUS-200018,CLI-100176,Doble Play TV+Internet,10 Mbps,TV Básico (80 canales),N/A,Disney+,Paquete Deportes,625.11,En Instalación,N/A,2020-05-14,,24
+SUS-200019,CLI-100238,Triple Play Premium,500 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Multiroom TV,Canales Premium,1052.54,Activo,N/A,2022-09-11,,12
+SUS-200020,CLI-100203,Solo TV,N/A,TV Básico (80 canales),N/A,Seguridad Digital,HBO Max,458.67,Cancelado,Precio alto,2025-08-13,2027-02-01,18
+SUS-200021,CLI-100155,Solo Internet,500 Mbps,N/A,N/A,WiFi Mesh Extender,Ninguno,381.0,Pendiente de Pago,N/A,2024-06-12,,24
+SUS-200022,CLI-100126,Triple Play Básico,200 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Canales Premium,Ninguno,624.71,Activo,N/A,2024-03-17,,18
+SUS-200023,CLI-100205,Triple Play Básico,500 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Paramount+,Ninguno,707.21,Cancelado,No proporcionado,2020-12-02,2021-08-06,6
+SUS-200024,CLI-100002,Doble Play TV+Internet,20 Mbps,TV Estándar (120 canales),N/A,Netflix,Ninguno,583.65,Activo,N/A,2023-01-09,,24
+SUS-200025,CLI-100027,Triple Play Premium,50 Mbps,TV Estándar (120 canales),Local Ilimitado,Multiroom TV,Ninguno,1015.74,Activo,N/A,2021-01-16,,24
+SUS-200026,CLI-100200,Triple Play Premium,20 Mbps,TV Básico (80 canales),Nacional Ilimitado,Multiroom TV,Ninguno,1019.45,Cancelado,No proporcionado,2022-09-21,2024-01-13,24
+SUS-200027,CLI-100038,Triple Play Premium,10 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Canales Premium,Ninguno,1276.69,Activo,N/A,2023-02-04,,24
+SUS-200028,CLI-100153,Solo Internet,100 Mbps,N/A,N/A,Disney+,Ninguno,398.67,Activo,N/A,2021-03-14,,24
+SUS-200029,CLI-100206,Doble Play TV+Internet,200 Mbps,TV Básico (80 canales),N/A,Ninguno,Soporte VIP,539.13,Activo,N/A,2024-10-29,,12
+SUS-200030,CLI-100123,Doble Play TV+Internet,500 Mbps,TV Premium (200+ canales),N/A,Paquete Deportes,Ninguno,596.3,Activo,N/A,2024-06-19,,12
+SUS-200031,CLI-100084,Doble Play Internet+Teléfono,200 Mbps,N/A,Local Ilimitado,Paquete Deportes,Ninguno,576.67,Activo,N/A,2024-05-28,,12
+SUS-200032,CLI-100175,Solo Internet,50 Mbps,N/A,N/A,Seguridad Digital,Ninguno,548.38,Activo,N/A,2025-03-05,,6
+SUS-200033,CLI-100210,Doble Play Internet+Teléfono,500 Mbps,N/A,Nacional Ilimitado,Soporte VIP,Ninguno,635.72,Cancelado,Cambio a competencia,2021-07-24,2022-03-28,6
+SUS-200034,CLI-100115,Solo Internet,500 Mbps,N/A,N/A,DVR en la Nube,Ninguno,424.49,Activo,N/A,2024-06-29,,6
+SUS-200035,CLI-100203,Doble Play TV+Internet,20 Mbps,TV Premium (200+ canales),N/A,Netflix,Soporte VIP,632.8,Cancelado,No proporcionado,2020-12-14,2022-03-12,24
+SUS-200036,CLI-100248,Doble Play TV+Internet,50 Mbps,TV Básico (80 canales),N/A,Netflix,Ninguno,602.2,Pendiente de Pago,N/A,2024-10-29,,12
+SUS-200037,CLI-100115,Doble Play TV+Internet,10 Mbps,TV Estándar (120 canales),N/A,Disney+,Ninguno,480.36,Activo,N/A,2025-08-11,,24
+SUS-200038,CLI-100236,Triple Play Premium,100 Mbps,TV Básico (80 canales),Nacional + 100 min LD,Paquete Deportes,Ninguno,1092.17,Activo,N/A,2021-08-03,,24
+SUS-200039,CLI-100025,Doble Play Internet+Teléfono,10 Mbps,N/A,Nacional Ilimitado,Paquete Deportes,Ninguno,593.39,Cancelado,Precio alto,2025-01-27,2025-08-22,12
+SUS-200040,CLI-100239,Solo TV,N/A,TV Premium (200+ canales),N/A,DVR en la Nube,Ninguno,355.59,Activo,N/A,2021-12-15,,24
+SUS-200041,CLI-100060,Doble Play Internet+Teléfono,500 Mbps,N/A,Nacional + 100 min LD,Soporte VIP,Canales Premium,663.93,Suspendido,N/A,2022-02-02,2022-06-01,24
+SUS-200042,CLI-100152,Doble Play Internet+Teléfono,500 Mbps,N/A,Local Ilimitado,Star+,Ninguno,572.2,Activo,N/A,2022-05-29,,12
+SUS-200043,CLI-100094,Doble Play TV+Internet,200 Mbps,TV Premium (200+ canales),N/A,Paramount+,Velocidad Extra 50Mbps,543.02,Activo,N/A,2021-04-11,,24
+SUS-200044,CLI-100157,Doble Play Internet+Teléfono,500 Mbps,N/A,Nacional + 100 min LD,Paquete Deportes,Multiroom TV,639.18,Suspendido,N/A,2023-11-26,2024-08-18,6
+SUS-200045,CLI-100173,Triple Play Básico,50 Mbps,TV Premium (200+ canales),Local Ilimitado,Paramount+,Ninguno,752.25,Activo,N/A,2022-09-04,,24
+SUS-200046,CLI-100153,Triple Play Básico,500 Mbps,TV Premium (200+ canales),Local Ilimitado,Disney+,Ninguno,765.47,Suspendido,N/A,2024-09-28,2026-06-30,24
+SUS-200047,CLI-100074,Triple Play Básico,50 Mbps,TV Básico (80 canales),Nacional Ilimitado,Multiroom TV,Ninguno,639.96,Activo,N/A,2025-01-21,,24
+SUS-200048,CLI-100247,Solo Internet,500 Mbps,N/A,N/A,Canales Premium,Canales Premium,550.97,Activo,N/A,2025-07-20,,24
+SUS-200049,CLI-100043,Triple Play Premium,200 Mbps,TV Estándar (120 canales),Local Ilimitado,Paramount+,Ninguno,1211.3,Suspendido,N/A,2022-06-22,2023-05-08,24
+SUS-200050,CLI-100141,Solo Internet,50 Mbps,N/A,N/A,Paramount+,Ninguno,461.61,Activo,N/A,2021-04-12,,6
+SUS-200051,CLI-100195,Solo TV,N/A,TV Premium (200+ canales),N/A,Canales Premium,Ninguno,436.84,Activo,N/A,2022-06-14,,18
+SUS-200052,CLI-100224,Triple Play Premium,10 Mbps,TV Básico (80 canales),Local Ilimitado,Ninguno,Velocidad Extra 50Mbps,1223.28,Activo,N/A,2023-11-28,,18
+SUS-200053,CLI-100221,Solo TV,N/A,TV Básico (80 canales),N/A,Disney+,WiFi Mesh Extender,450.36,Suspendido,N/A,2024-10-19,2025-08-16,18
+SUS-200054,CLI-100137,Doble Play TV+Internet,200 Mbps,TV Estándar (120 canales),N/A,Paquete Deportes,Paramount+,734.72,Suspendido,N/A,2021-11-20,2022-12-11,6
+SUS-200055,CLI-100035,Doble Play Internet+Teléfono,20 Mbps,N/A,Local Ilimitado,Ninguno,Seguridad Digital,442.87,Pendiente de Pago,N/A,2023-02-09,,18
+SUS-200056,CLI-100213,Triple Play Básico,500 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Velocidad Extra 50Mbps,Ninguno,734.6,Cancelado,No proporcionado,2024-05-27,2025-05-27,6
+SUS-200057,CLI-100104,Solo Internet,500 Mbps,N/A,N/A,Velocidad Extra 50Mbps,Paquete Deportes,326.94,Cancelado,Situación económica,2024-02-20,2024-05-22,24
+SUS-200058,CLI-100163,Solo TV,N/A,TV Básico (80 canales),N/A,WiFi Mesh Extender,Ninguno,372.68,Cancelado,Problemas de servicio,2020-09-16,2022-02-27,18
+SUS-200059,CLI-100213,Doble Play TV+Internet,50 Mbps,TV Premium (200+ canales),N/A,Multiroom TV,WiFi Mesh Extender,677.68,Activo,N/A,2021-06-18,,6
+SUS-200060,CLI-100026,Solo TV,N/A,TV Estándar (120 canales),N/A,HBO Max,Ninguno,249.17,Cancelado,Problemas de servicio,2025-02-25,2026-08-20,24
+SUS-200061,CLI-100052,Solo TV,N/A,TV Básico (80 canales),N/A,Disney+,Paramount+,412.65,Pendiente de Pago,N/A,2023-05-21,,18
+SUS-200062,CLI-100022,Doble Play TV+Internet,100 Mbps,TV Premium (200+ canales),N/A,HBO Max,Ninguno,476.36,Cancelado,Cambio a competencia,2021-11-08,2022-10-03,6
+SUS-200063,CLI-100001,Triple Play Básico,500 Mbps,TV Estándar (120 canales),Local Ilimitado,Multiroom TV,Ninguno,601.42,Activo,N/A,2021-06-27,,18
+SUS-200064,CLI-100210,Triple Play Premium,10 Mbps,TV Básico (80 canales),Nacional Ilimitado,Seguridad Digital,Ninguno,934.73,Pendiente de Pago,N/A,2024-09-25,,6
+SUS-200065,CLI-100027,Doble Play TV+Internet,20 Mbps,TV Premium (200+ canales),N/A,Disney+,Ninguno,746.88,Activo,N/A,2023-05-10,,12
+SUS-200066,CLI-100018,Solo Internet,500 Mbps,N/A,N/A,Velocidad Extra 50Mbps,Ninguno,523.48,Suspendido,N/A,2021-11-03,2022-09-07,24
+SUS-200067,CLI-100158,Solo TV,N/A,TV Básico (80 canales),N/A,Netflix,Disney+,396.39,Activo,N/A,2022-06-08,,24
+SUS-200068,CLI-100090,Doble Play Internet+Teléfono,10 Mbps,N/A,Local Ilimitado,Star+,Ninguno,565.02,Activo,N/A,2021-07-26,,18
+SUS-200069,CLI-100200,Solo TV,N/A,TV Premium (200+ canales),N/A,Star+,Ninguno,296.16,Activo,N/A,2023-05-20,,24
+SUS-200070,CLI-100076,Solo TV,N/A,TV Básico (80 canales),N/A,Velocidad Extra 50Mbps,Ninguno,373.9,Activo,N/A,2022-09-07,,6
+SUS-200071,CLI-100136,Triple Play Premium,200 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Disney+,Ninguno,1117.54,Pendiente de Pago,N/A,2023-07-20,,12
+SUS-200072,CLI-100196,Doble Play Internet+Teléfono,10 Mbps,N/A,Nacional Ilimitado,HBO Max,Ninguno,463.72,Pendiente de Pago,N/A,2020-10-25,,6
+SUS-200073,CLI-100243,Doble Play Internet+Teléfono,500 Mbps,N/A,Nacional Ilimitado,WiFi Mesh Extender,Ninguno,423.73,Activo,N/A,2025-08-14,,12
+SUS-200074,CLI-100072,Triple Play Premium,200 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Star+,Disney+,1133.57,Activo,N/A,2025-09-25,,6
+SUS-200075,CLI-100080,Solo TV,N/A,TV Estándar (120 canales),N/A,HBO Max,Ninguno,278.0,Activo,N/A,2022-09-04,,6
+SUS-200076,CLI-100080,Solo TV,N/A,TV Básico (80 canales),N/A,Netflix,Ninguno,373.1,Cancelado,Problemas de servicio,2021-12-20,2022-03-31,18
+SUS-200077,CLI-100134,Solo Internet,500 Mbps,N/A,N/A,Disney+,Ninguno,564.92,Cancelado,No proporcionado,2022-11-27,2023-11-27,6
+SUS-200078,CLI-100086,Doble Play Internet+Teléfono,500 Mbps,N/A,Local Ilimitado,Paramount+,Multiroom TV,547.84,Activo,N/A,2020-09-18,,18
+SUS-200079,CLI-100015,Doble Play Internet+Teléfono,10 Mbps,N/A,Nacional + 100 min LD,Paquete Deportes,Ninguno,601.24,En Instalación,N/A,2021-11-14,,6
+SUS-200080,CLI-100059,Solo TV,N/A,TV Básico (80 canales),N/A,Ninguno,Star+,366.94,Activo,N/A,2020-06-29,,24
+SUS-200081,CLI-100236,Triple Play Básico,500 Mbps,TV Premium (200+ canales),Nacional Ilimitado,DVR en la Nube,Seguridad Digital,666.35,Activo,N/A,2020-05-24,,12
+SUS-200082,CLI-100107,Solo TV,N/A,TV Premium (200+ canales),N/A,Multiroom TV,Ninguno,417.33,Activo,N/A,2020-11-15,,6
+SUS-200083,CLI-100046,Triple Play Básico,100 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Canales Premium,Ninguno,697.19,En Instalación,N/A,2020-07-07,,24
+SUS-200084,CLI-100003,Doble Play TV+Internet,50 Mbps,TV Premium (200+ canales),N/A,Seguridad Digital,Velocidad Extra 50Mbps,740.56,Activo,N/A,2023-05-29,,12
+SUS-200085,CLI-100188,Solo Internet,20 Mbps,N/A,N/A,Disney+,Ninguno,461.46,Cancelado,Mudanza fuera de cobertura,2022-10-01,2023-01-23,6
+SUS-200086,CLI-100244,Doble Play TV+Internet,10 Mbps,TV Básico (80 canales),N/A,Ninguno,Paramount+,607.94,Activo,N/A,2024-03-21,,12
+SUS-200087,CLI-100108,Doble Play Internet+Teléfono,10 Mbps,N/A,Local Ilimitado,Seguridad Digital,Ninguno,668.19,Pendiente de Pago,N/A,2021-08-06,,24
+SUS-200088,CLI-100180,Doble Play TV+Internet,20 Mbps,TV Premium (200+ canales),N/A,Multiroom TV,Ninguno,694.99,Activo,N/A,2020-12-13,,6
+SUS-200089,CLI-100152,Solo Internet,50 Mbps,N/A,N/A,Star+,Ninguno,576.81,Activo,N/A,2021-06-19,,24
+SUS-200090,CLI-100180,Solo TV,N/A,TV Básico (80 canales),N/A,Paramount+,Ninguno,283.03,Activo,N/A,2025-01-28,,6
+SUS-200091,CLI-100040,Triple Play Premium,200 Mbps,TV Estándar (120 canales),Local Ilimitado,Paquete Deportes,Ninguno,1079.77,Activo,N/A,2025-03-23,,24
+SUS-200092,CLI-100068,Triple Play Premium,10 Mbps,TV Básico (80 canales),Nacional Ilimitado,Ninguno,Multiroom TV,958.33,Activo,N/A,2023-05-31,,12
+SUS-200093,CLI-100248,Doble Play TV+Internet,20 Mbps,TV Básico (80 canales),N/A,Soporte VIP,Ninguno,734.63,Activo,N/A,2020-07-19,,24
+SUS-200094,CLI-100143,Solo TV,N/A,TV Básico (80 canales),N/A,Velocidad Extra 50Mbps,Ninguno,251.99,Suspendido,N/A,2021-01-22,2021-09-12,12
+SUS-200095,CLI-100034,Triple Play Básico,10 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Soporte VIP,Soporte VIP,676.65,En Instalación,N/A,2024-03-04,,6
+SUS-200096,CLI-100006,Triple Play Premium,50 Mbps,TV Básico (80 canales),Local Ilimitado,WiFi Mesh Extender,Ninguno,1275.91,Activo,N/A,2024-12-21,,6
+SUS-200097,CLI-100044,Solo Internet,500 Mbps,N/A,N/A,Velocidad Extra 50Mbps,Ninguno,427.0,Activo,N/A,2024-06-05,,18
+SUS-200098,CLI-100055,Triple Play Básico,200 Mbps,TV Premium (200+ canales),Local Ilimitado,Disney+,Ninguno,793.18,Activo,N/A,2024-12-31,,24
+SUS-200099,CLI-100106,Solo Internet,100 Mbps,N/A,N/A,Paramount+,Ninguno,358.84,Activo,N/A,2020-12-25,,12
+SUS-200100,CLI-100162,Solo Internet,50 Mbps,N/A,N/A,WiFi Mesh Extender,Velocidad Extra 50Mbps,572.8,Cancelado,Situación económica,2024-04-15,2025-11-22,18
+SUS-200101,CLI-100100,Doble Play TV+Internet,50 Mbps,TV Básico (80 canales),N/A,Multiroom TV,Ninguno,691.6,Activo,N/A,2023-07-30,,24
+SUS-200102,CLI-100136,Doble Play TV+Internet,50 Mbps,TV Premium (200+ canales),N/A,Disney+,Ninguno,693.89,Cancelado,No proporcionado,2022-08-11,2023-07-13,6
+SUS-200103,CLI-100196,Triple Play Básico,20 Mbps,TV Básico (80 canales),Nacional + 100 min LD,Paquete Deportes,Ninguno,694.4,Suspendido,N/A,2024-05-09,2025-01-31,18
+SUS-200104,CLI-100234,Solo Internet,200 Mbps,N/A,N/A,Multiroom TV,Ninguno,583.51,Activo,N/A,2023-12-11,,24
+SUS-200105,CLI-100139,Doble Play TV+Internet,200 Mbps,TV Básico (80 canales),N/A,Netflix,Ninguno,454.98,Activo,N/A,2020-06-04,,24
+SUS-200106,CLI-100001,Doble Play TV+Internet,500 Mbps,TV Básico (80 canales),N/A,WiFi Mesh Extender,Ninguno,724.63,Pendiente de Pago,N/A,2022-04-05,,18
+SUS-200107,CLI-100016,Triple Play Premium,200 Mbps,TV Estándar (120 canales),Local Ilimitado,WiFi Mesh Extender,Ninguno,1048.44,Activo,N/A,2021-08-03,,24
+SUS-200108,CLI-100151,Triple Play Premium,100 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Disney+,Seguridad Digital,1158.67,Activo,N/A,2023-08-14,,12
+SUS-200109,CLI-100182,Solo Internet,50 Mbps,N/A,N/A,Star+,Ninguno,519.2,Cancelado,Problemas de servicio,2024-01-01,2025-04-22,18
+SUS-200110,CLI-100033,Triple Play Básico,200 Mbps,TV Estándar (120 canales),Nacional + 100 min LD,Ninguno,Multiroom TV,665.27,Cancelado,Precio alto,2024-05-22,2025-02-22,6
+SUS-200111,CLI-100240,Doble Play Internet+Teléfono,50 Mbps,N/A,Local Ilimitado,Star+,Ninguno,589.86,Activo,N/A,2020-11-14,,6
+SUS-200112,CLI-100211,Solo TV,N/A,TV Premium (200+ canales),N/A,Velocidad Extra 50Mbps,Ninguno,265.95,Cancelado,Problemas de servicio,2023-10-07,2024-09-16,18
+SUS-200113,CLI-100202,Triple Play Premium,100 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Canales Premium,Ninguno,1039.49,Cancelado,Mudanza fuera de cobertura,2020-07-16,2021-04-02,24
+SUS-200114,CLI-100026,Doble Play Internet+Teléfono,10 Mbps,N/A,Nacional Ilimitado,Disney+,Ninguno,477.34,Cancelado,Precio alto,2022-07-12,2023-08-07,6
+SUS-200115,CLI-100019,Doble Play TV+Internet,10 Mbps,TV Estándar (120 canales),N/A,Disney+,DVR en la Nube,627.21,Activo,N/A,2024-03-17,,24
+SUS-200116,CLI-100181,Triple Play Premium,10 Mbps,TV Básico (80 canales),Nacional Ilimitado,Multiroom TV,Disney+,981.22,Activo,N/A,2021-11-06,,12
+SUS-200117,CLI-100105,Solo TV,N/A,TV Básico (80 canales),N/A,Soporte VIP,Ninguno,261.41,Suspendido,N/A,2022-12-22,2023-11-20,24
+SUS-200118,CLI-100040,Triple Play Premium,500 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Netflix,Ninguno,1091.13,Activo,N/A,2024-10-17,,6
+SUS-200119,CLI-100007,Triple Play Básico,10 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Netflix,Ninguno,740.28,Activo,N/A,2023-04-10,,18
+SUS-200120,CLI-100024,Solo TV,N/A,TV Básico (80 canales),N/A,Paquete Deportes,Paquete Deportes,360.44,Activo,N/A,2022-01-27,,18
+SUS-200121,CLI-100113,Doble Play Internet+Teléfono,500 Mbps,N/A,Nacional + 100 min LD,Multiroom TV,Ninguno,428.01,Activo,N/A,2023-01-05,,18
+SUS-200122,CLI-100207,Solo Internet,100 Mbps,N/A,N/A,DVR en la Nube,Ninguno,544.52,Activo,N/A,2022-07-20,,24
+SUS-200123,CLI-100248,Solo Internet,100 Mbps,N/A,N/A,Multiroom TV,Velocidad Extra 50Mbps,569.83,Cancelado,Cambio a competencia,2025-04-28,2025-10-15,6
+SUS-200124,CLI-100129,Solo Internet,20 Mbps,N/A,N/A,Netflix,Velocidad Extra 50Mbps,583.72,Pendiente de Pago,N/A,2021-08-26,,12
+SUS-200125,CLI-100249,Triple Play Básico,500 Mbps,TV Estándar (120 canales),Local Ilimitado,HBO Max,Ninguno,898.18,En Instalación,N/A,2021-05-31,,12
+SUS-200126,CLI-100214,Solo Internet,100 Mbps,N/A,N/A,Netflix,Ninguno,464.62,Activo,N/A,2020-10-01,,18
+SUS-200127,CLI-100134,Doble Play Internet+Teléfono,200 Mbps,N/A,Nacional Ilimitado,WiFi Mesh Extender,Multiroom TV,432.76,Pendiente de Pago,N/A,2020-02-20,,12
+SUS-200128,CLI-100038,Solo Internet,50 Mbps,N/A,N/A,Netflix,Ninguno,559.24,Suspendido,N/A,2021-02-14,2021-08-26,18
+SUS-200129,CLI-100225,Doble Play Internet+Teléfono,20 Mbps,N/A,Nacional Ilimitado,Multiroom TV,HBO Max,519.89,Activo,N/A,2025-06-11,,24
+SUS-200130,CLI-100010,Doble Play Internet+Teléfono,500 Mbps,N/A,Nacional Ilimitado,Seguridad Digital,Ninguno,675.25,En Instalación,N/A,2023-09-19,,18
+SUS-200131,CLI-100006,Doble Play TV+Internet,100 Mbps,TV Premium (200+ canales),N/A,Paramount+,Ninguno,654.46,En Instalación,N/A,2023-05-26,,12
+SUS-200132,CLI-100035,Doble Play TV+Internet,500 Mbps,TV Estándar (120 canales),N/A,WiFi Mesh Extender,Paramount+,630.49,Pendiente de Pago,N/A,2024-12-19,,6
+SUS-200133,CLI-100049,Doble Play Internet+Teléfono,200 Mbps,N/A,Nacional Ilimitado,Seguridad Digital,Ninguno,645.31,Activo,N/A,2024-07-25,,12
+SUS-200134,CLI-100017,Doble Play TV+Internet,20 Mbps,TV Básico (80 canales),N/A,Disney+,DVR en la Nube,711.55,Cancelado,Situación económica,2024-07-10,2024-11-06,12
+SUS-200135,CLI-100215,Triple Play Premium,20 Mbps,TV Estándar (120 canales),Nacional Ilimitado,HBO Max,Seguridad Digital,1228.4,Activo,N/A,2025-02-12,,24
+SUS-200136,CLI-100163,Triple Play Premium,100 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Paquete Deportes,Ninguno,1038.9,Cancelado,Mudanza fuera de cobertura,2022-09-17,2023-06-15,12
+SUS-200137,CLI-100215,Doble Play TV+Internet,200 Mbps,TV Básico (80 canales),N/A,Paramount+,Ninguno,706.13,Cancelado,Precio alto,2021-01-05,2021-09-18,12
+SUS-200138,CLI-100174,Triple Play Básico,500 Mbps,TV Básico (80 canales),Nacional Ilimitado,DVR en la Nube,Ninguno,872.45,Activo,N/A,2024-08-04,,12
+SUS-200139,CLI-100154,Triple Play Premium,50 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Seguridad Digital,Soporte VIP,1239.63,Activo,N/A,2023-06-05,,24
+SUS-200140,CLI-100065,Triple Play Básico,10 Mbps,TV Básico (80 canales),Nacional + 100 min LD,Ninguno,Multiroom TV,898.83,Activo,N/A,2025-11-02,,18
+SUS-200141,CLI-100144,Solo TV,N/A,TV Estándar (120 canales),N/A,Paramount+,Velocidad Extra 50Mbps,496.09,Suspendido,N/A,2023-03-03,2023-08-05,18
+SUS-200142,CLI-100221,Doble Play TV+Internet,20 Mbps,TV Básico (80 canales),N/A,Star+,Ninguno,690.63,Activo,N/A,2023-05-08,,24
+SUS-200143,CLI-100170,Doble Play TV+Internet,100 Mbps,TV Estándar (120 canales),N/A,Soporte VIP,Ninguno,565.48,Cancelado,Cambio a competencia,2020-04-14,2021-04-04,6
+SUS-200144,CLI-100150,Solo TV,N/A,TV Premium (200+ canales),N/A,Paquete Deportes,Star+,382.66,Pendiente de Pago,N/A,2022-02-16,,24
+SUS-200145,CLI-100233,Solo TV,N/A,TV Premium (200+ canales),N/A,Ninguno,Ninguno,468.12,Activo,N/A,2023-05-14,,12
+SUS-200146,CLI-100076,Triple Play Premium,20 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Seguridad Digital,WiFi Mesh Extender,1160.77,Activo,N/A,2022-11-25,,12
+SUS-200147,CLI-100091,Triple Play Básico,200 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Canales Premium,Paquete Deportes,854.36,Cancelado,Cambio a competencia,2023-06-11,2024-06-01,24
+SUS-200148,CLI-100014,Solo TV,N/A,TV Premium (200+ canales),N/A,Velocidad Extra 50Mbps,DVR en la Nube,344.42,Suspendido,N/A,2020-10-18,2021-05-18,18
+SUS-200149,CLI-100106,Triple Play Premium,100 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Disney+,Paquete Deportes,956.29,En Instalación,N/A,2021-09-09,,12
+SUS-200150,CLI-100200,Triple Play Premium,100 Mbps,TV Estándar (120 canales),Local Ilimitado,Paquete Deportes,HBO Max,1203.48,Activo,N/A,2021-12-25,,12
+SUS-200151,CLI-100148,Triple Play Básico,100 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Disney+,Soporte VIP,888.6,Activo,N/A,2020-12-26,,24
+SUS-200152,CLI-100002,Triple Play Premium,200 Mbps,TV Básico (80 canales),Local Ilimitado,HBO Max,WiFi Mesh Extender,1169.7,Activo,N/A,2024-03-08,,12
+SUS-200153,CLI-100058,Solo TV,N/A,TV Premium (200+ canales),N/A,Disney+,Ninguno,396.17,En Instalación,N/A,2023-07-02,,12
+SUS-200154,CLI-100017,Triple Play Premium,200 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Velocidad Extra 50Mbps,Multiroom TV,1254.19,Activo,N/A,2023-04-06,,12
+SUS-200155,CLI-100088,Doble Play Internet+Teléfono,100 Mbps,N/A,Local Ilimitado,Disney+,WiFi Mesh Extender,467.53,Activo,N/A,2022-02-10,,12
+SUS-200156,CLI-100055,Solo TV,N/A,TV Premium (200+ canales),N/A,Disney+,Ninguno,411.64,Activo,N/A,2025-08-28,,6
+SUS-200157,CLI-100097,Solo TV,N/A,TV Básico (80 canales),N/A,Multiroom TV,Ninguno,414.49,Activo,N/A,2025-12-30,,6
+SUS-200158,CLI-100013,Solo TV,N/A,TV Estándar (120 canales),N/A,Canales Premium,Ninguno,367.6,Activo,N/A,2024-12-24,,12
+SUS-200159,CLI-100053,Solo TV,N/A,TV Estándar (120 canales),N/A,Paramount+,Ninguno,404.7,Cancelado,Precio alto,2020-02-08,2021-10-22,12
+SUS-200160,CLI-100108,Triple Play Premium,10 Mbps,TV Estándar (120 canales),Local Ilimitado,Paramount+,Ninguno,1142.6,Activo,N/A,2021-04-27,,18
+SUS-200161,CLI-100213,Solo Internet,20 Mbps,N/A,N/A,Seguridad Digital,Ninguno,310.82,Pendiente de Pago,N/A,2024-01-06,,24
+SUS-200162,CLI-100234,Triple Play Básico,10 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Paquete Deportes,Ninguno,747.23,Cancelado,Precio alto,2025-05-22,2025-11-19,6
+SUS-200163,CLI-100200,Solo Internet,50 Mbps,N/A,N/A,Paramount+,Velocidad Extra 50Mbps,378.24,Activo,N/A,2021-02-18,,6
+SUS-200164,CLI-100026,Triple Play Básico,100 Mbps,TV Premium (200+ canales),Local Ilimitado,Paquete Deportes,Paquete Deportes,627.5,En Instalación,N/A,2023-04-05,,6
+SUS-200165,CLI-100003,Triple Play Básico,50 Mbps,TV Premium (200+ canales),Local Ilimitado,Paquete Deportes,Ninguno,710.79,Cancelado,Mudanza fuera de cobertura,2021-11-29,2023-11-25,18
+SUS-200166,CLI-100047,Triple Play Premium,100 Mbps,TV Estándar (120 canales),Nacional + 100 min LD,Paramount+,Seguridad Digital,1253.45,Activo,N/A,2025-02-12,,12
+SUS-200167,CLI-100029,Triple Play Básico,100 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Ninguno,Ninguno,730.45,Cancelado,Mudanza fuera de cobertura,2020-08-28,2022-07-23,24
+SUS-200168,CLI-100200,Doble Play TV+Internet,100 Mbps,TV Básico (80 canales),N/A,Velocidad Extra 50Mbps,Netflix,468.0,Suspendido,N/A,2021-06-19,2022-11-12,18
+SUS-200169,CLI-100004,Solo TV,N/A,TV Premium (200+ canales),N/A,WiFi Mesh Extender,Seguridad Digital,305.0,En Instalación,N/A,2025-11-19,,18
+SUS-200170,CLI-100133,Solo Internet,500 Mbps,N/A,N/A,Canales Premium,Star+,501.89,Cancelado,Mudanza fuera de cobertura,2021-01-25,2022-04-14,24
+SUS-200171,CLI-100039,Solo Internet,200 Mbps,N/A,N/A,HBO Max,Disney+,553.65,En Instalación,N/A,2020-08-11,,24
+SUS-200172,CLI-100223,Triple Play Básico,50 Mbps,TV Básico (80 canales),Nacional + 100 min LD,Paquete Deportes,Ninguno,665.81,Activo,N/A,2025-07-06,,24
+SUS-200173,CLI-100104,Triple Play Básico,10 Mbps,TV Estándar (120 canales),Nacional Ilimitado,WiFi Mesh Extender,Ninguno,693.82,Activo,N/A,2024-12-24,,24
+SUS-200174,CLI-100191,Solo TV,N/A,TV Premium (200+ canales),N/A,Canales Premium,Ninguno,249.04,Activo,N/A,2024-07-10,,6
+SUS-200175,CLI-100203,Solo Internet,500 Mbps,N/A,N/A,DVR en la Nube,Ninguno,500.44,Pendiente de Pago,N/A,2023-06-01,,18
+SUS-200176,CLI-100094,Triple Play Premium,200 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Paquete Deportes,Ninguno,1185.66,En Instalación,N/A,2025-02-04,,18
+SUS-200177,CLI-100184,Doble Play Internet+Teléfono,500 Mbps,N/A,Nacional Ilimitado,HBO Max,Ninguno,563.31,Activo,N/A,2022-06-27,,18
+SUS-200178,CLI-100180,Triple Play Premium,500 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Velocidad Extra 50Mbps,Ninguno,1062.68,Activo,N/A,2021-11-03,,18
+SUS-200179,CLI-100157,Triple Play Básico,20 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Star+,Ninguno,631.33,Activo,N/A,2024-05-28,,24
+SUS-200180,CLI-100012,Solo TV,N/A,TV Premium (200+ canales),N/A,WiFi Mesh Extender,Velocidad Extra 50Mbps,396.33,En Instalación,N/A,2021-05-19,,12
+SUS-200181,CLI-100247,Doble Play Internet+Teléfono,200 Mbps,N/A,Nacional Ilimitado,DVR en la Nube,Ninguno,676.31,Activo,N/A,2020-07-17,,12
+SUS-200182,CLI-100178,Solo Internet,200 Mbps,N/A,N/A,Netflix,Ninguno,480.85,Activo,N/A,2021-06-09,,18
+SUS-200183,CLI-100130,Doble Play Internet+Teléfono,50 Mbps,N/A,Nacional Ilimitado,Paramount+,Ninguno,534.85,Activo,N/A,2022-10-13,,12
+SUS-200184,CLI-100036,Doble Play Internet+Teléfono,500 Mbps,N/A,Nacional + 100 min LD,Paramount+,DVR en la Nube,679.65,Suspendido,N/A,2025-09-29,2026-11-14,12
+SUS-200185,CLI-100052,Triple Play Básico,500 Mbps,TV Premium (200+ canales),Local Ilimitado,Soporte VIP,Ninguno,750.17,Suspendido,N/A,2023-04-05,2023-11-16,18
+SUS-200186,CLI-100182,Triple Play Premium,500 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Multiroom TV,Ninguno,1013.37,Cancelado,No proporcionado,2025-05-21,2026-10-20,24
+SUS-200187,CLI-100207,Triple Play Premium,500 Mbps,TV Básico (80 canales),Local Ilimitado,Canales Premium,Ninguno,1005.79,Activo,N/A,2020-04-13,,12
+SUS-200188,CLI-100074,Solo TV,N/A,TV Premium (200+ canales),N/A,Seguridad Digital,Star+,257.08,Activo,N/A,2020-09-11,,24
+SUS-200189,CLI-100027,Solo Internet,20 Mbps,N/A,N/A,Seguridad Digital,Canales Premium,452.28,En Instalación,N/A,2022-07-07,,18
+SUS-200190,CLI-100178,Solo TV,N/A,TV Premium (200+ canales),N/A,Canales Premium,Ninguno,327.16,Activo,N/A,2024-04-11,,6
+SUS-200191,CLI-100004,Solo TV,N/A,TV Premium (200+ canales),N/A,Ninguno,Ninguno,425.16,Activo,N/A,2024-12-19,,18
+SUS-200192,CLI-100194,Solo Internet,50 Mbps,N/A,N/A,WiFi Mesh Extender,Star+,433.64,Activo,N/A,2022-03-15,,6
+SUS-200193,CLI-100048,Triple Play Básico,50 Mbps,TV Básico (80 canales),Local Ilimitado,Canales Premium,Ninguno,774.2,Cancelado,Cambio a competencia,2021-05-03,2023-02-21,18
+SUS-200194,CLI-100002,Doble Play TV+Internet,50 Mbps,TV Premium (200+ canales),N/A,HBO Max,Ninguno,464.26,Activo,N/A,2021-09-26,,18
+SUS-200195,CLI-100126,Solo Internet,20 Mbps,N/A,N/A,WiFi Mesh Extender,DVR en la Nube,455.18,Suspendido,N/A,2020-10-25,2021-09-05,12
+SUS-200196,CLI-100107,Solo Internet,20 Mbps,N/A,N/A,Paquete Deportes,Ninguno,498.0,Activo,N/A,2021-01-11,,18
+SUS-200197,CLI-100093,Doble Play TV+Internet,500 Mbps,TV Básico (80 canales),N/A,Velocidad Extra 50Mbps,Ninguno,483.42,Activo,N/A,2025-12-12,,18
+SUS-200198,CLI-100115,Triple Play Básico,100 Mbps,TV Básico (80 canales),Nacional Ilimitado,HBO Max,Paquete Deportes,675.98,Pendiente de Pago,N/A,2022-09-25,,18
+SUS-200199,CLI-100007,Solo Internet,100 Mbps,N/A,N/A,DVR en la Nube,Velocidad Extra 50Mbps,312.16,En Instalación,N/A,2024-03-15,,12
+SUS-200200,CLI-100083,Solo Internet,200 Mbps,N/A,N/A,Disney+,WiFi Mesh Extender,458.96,Activo,N/A,2021-01-28,,6
+SUS-200201,CLI-100054,Solo TV,N/A,TV Básico (80 canales),N/A,Ninguno,Ninguno,383.44,Suspendido,N/A,2022-05-23,2022-12-05,24
+SUS-200202,CLI-100166,Triple Play Premium,10 Mbps,TV Básico (80 canales),Local Ilimitado,HBO Max,Ninguno,970.2,Cancelado,Cambio a competencia,2021-09-21,2022-01-27,18
+SUS-200203,CLI-100143,Triple Play Premium,500 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Paramount+,Ninguno,1025.56,Suspendido,N/A,2022-07-21,2024-01-23,24
+SUS-200204,CLI-100173,Triple Play Premium,500 Mbps,TV Básico (80 canales),Nacional Ilimitado,WiFi Mesh Extender,HBO Max,1270.22,Activo,N/A,2020-09-16,,6
+SUS-200205,CLI-100075,Solo TV,N/A,TV Estándar (120 canales),N/A,Paramount+,Velocidad Extra 50Mbps,347.78,Activo,N/A,2020-12-20,,6
+SUS-200206,CLI-100122,Triple Play Básico,200 Mbps,TV Estándar (120 canales),Nacional + 100 min LD,Seguridad Digital,Ninguno,642.22,Activo,N/A,2021-07-12,,18
+SUS-200207,CLI-100246,Triple Play Premium,200 Mbps,TV Estándar (120 canales),Nacional + 100 min LD,Netflix,Ninguno,1118.01,Suspendido,N/A,2021-08-02,2023-06-09,6
+SUS-200208,CLI-100079,Triple Play Básico,20 Mbps,TV Básico (80 canales),Local Ilimitado,Star+,Ninguno,665.24,Cancelado,No proporcionado,2023-11-09,2025-07-15,18
+SUS-200209,CLI-100050,Triple Play Premium,100 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Ninguno,DVR en la Nube,928.26,Activo,N/A,2020-08-10,,6
+SUS-200210,CLI-100065,Triple Play Premium,500 Mbps,TV Premium (200+ canales),Local Ilimitado,Paquete Deportes,Ninguno,939.02,Activo,N/A,2025-06-18,,6
+SUS-200211,CLI-100231,Triple Play Básico,500 Mbps,TV Premium (200+ canales),Local Ilimitado,Paquete Deportes,Paramount+,768.67,Activo,N/A,2025-01-19,,18
+SUS-200212,CLI-100207,Doble Play TV+Internet,20 Mbps,TV Premium (200+ canales),N/A,HBO Max,Ninguno,670.94,Pendiente de Pago,N/A,2021-11-21,,24
+SUS-200213,CLI-100071,Doble Play TV+Internet,50 Mbps,TV Estándar (120 canales),N/A,Velocidad Extra 50Mbps,Ninguno,595.09,Activo,N/A,2023-09-20,,6
+SUS-200214,CLI-100045,Solo TV,N/A,TV Estándar (120 canales),N/A,Ninguno,DVR en la Nube,432.39,Suspendido,N/A,2023-02-23,2023-12-11,6
+SUS-200215,CLI-100187,Triple Play Premium,200 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Soporte VIP,Ninguno,1206.68,En Instalación,N/A,2025-09-08,,12
+SUS-200216,CLI-100233,Triple Play Premium,20 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Soporte VIP,Paquete Deportes,1241.87,Suspendido,N/A,2025-04-17,2026-08-21,12
+SUS-200217,CLI-100119,Solo Internet,500 Mbps,N/A,N/A,Paquete Deportes,Ninguno,370.66,Activo,N/A,2024-06-13,,12
+SUS-200218,CLI-100194,Solo Internet,200 Mbps,N/A,N/A,Disney+,Ninguno,496.82,Activo,N/A,2021-10-14,,12
+SUS-200219,CLI-100189,Solo TV,N/A,TV Estándar (120 canales),N/A,HBO Max,Ninguno,306.94,Activo,N/A,2024-01-09,,18
+SUS-200220,CLI-100095,Triple Play Básico,100 Mbps,TV Estándar (120 canales),Nacional Ilimitado,DVR en la Nube,Paquete Deportes,863.47,Activo,N/A,2022-04-26,,6
+SUS-200221,CLI-100167,Doble Play TV+Internet,500 Mbps,TV Estándar (120 canales),N/A,Soporte VIP,Ninguno,622.59,Activo,N/A,2025-11-05,,12
+SUS-200222,CLI-100097,Solo TV,N/A,TV Básico (80 canales),N/A,DVR en la Nube,Ninguno,378.09,Activo,N/A,2020-11-14,,18
+SUS-200223,CLI-100210,Doble Play TV+Internet,20 Mbps,TV Estándar (120 canales),N/A,Multiroom TV,Ninguno,498.68,Activo,N/A,2025-05-28,,6
+SUS-200224,CLI-100132,Solo TV,N/A,TV Premium (200+ canales),N/A,Disney+,Ninguno,428.33,Activo,N/A,2021-09-07,,6
+SUS-200225,CLI-100170,Triple Play Básico,500 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Seguridad Digital,Ninguno,662.21,Activo,N/A,2023-09-14,,12
+SUS-200226,CLI-100166,Doble Play Internet+Teléfono,20 Mbps,N/A,Local Ilimitado,Disney+,Ninguno,587.86,Activo,N/A,2020-06-25,,6
+SUS-200227,CLI-100229,Solo Internet,100 Mbps,N/A,N/A,Paramount+,DVR en la Nube,478.81,Activo,N/A,2021-11-12,,6
+SUS-200228,CLI-100225,Solo TV,N/A,TV Estándar (120 canales),N/A,Netflix,Ninguno,291.64,Cancelado,Situación económica,2023-03-07,2024-09-29,24
+SUS-200229,CLI-100154,Triple Play Básico,100 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Multiroom TV,Paramount+,619.65,Cancelado,Problemas de servicio,2022-01-14,2023-03-30,24
+SUS-200230,CLI-100099,Triple Play Básico,500 Mbps,TV Estándar (120 canales),Local Ilimitado,DVR en la Nube,DVR en la Nube,780.65,Activo,N/A,2022-04-08,,12
+SUS-200231,CLI-100122,Solo Internet,500 Mbps,N/A,N/A,DVR en la Nube,Netflix,338.1,Suspendido,N/A,2025-12-16,2027-07-22,6
+SUS-200232,CLI-100230,Solo TV,N/A,TV Premium (200+ canales),N/A,Canales Premium,Ninguno,381.45,Suspendido,N/A,2025-11-08,2026-03-22,12
+SUS-200233,CLI-100241,Doble Play Internet+Teléfono,10 Mbps,N/A,Nacional Ilimitado,Paquete Deportes,Ninguno,439.16,Cancelado,No proporcionado,2024-04-10,2026-02-18,24
+SUS-200234,CLI-100197,Triple Play Básico,200 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Paramount+,Ninguno,655.71,Pendiente de Pago,N/A,2020-12-09,,6
+SUS-200235,CLI-100148,Solo Internet,50 Mbps,N/A,N/A,Canales Premium,Seguridad Digital,421.65,Activo,N/A,2020-01-30,,6
+SUS-200236,CLI-100040,Doble Play Internet+Teléfono,200 Mbps,N/A,Nacional Ilimitado,Paramount+,Canales Premium,696.54,Cancelado,Situación económica,2022-11-04,2024-02-11,24
+SUS-200237,CLI-100194,Triple Play Básico,200 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Disney+,Ninguno,895.55,Activo,N/A,2025-05-30,,18
+SUS-200238,CLI-100199,Solo TV,N/A,TV Premium (200+ canales),N/A,Ninguno,Netflix,306.44,Activo,N/A,2021-07-19,,12
+SUS-200239,CLI-100026,Triple Play Básico,500 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,WiFi Mesh Extender,Ninguno,614.62,Activo,N/A,2023-10-18,,24
+SUS-200240,CLI-100247,Solo TV,N/A,TV Premium (200+ canales),N/A,Ninguno,Ninguno,357.84,Activo,N/A,2021-01-08,,6
+SUS-200241,CLI-100068,Triple Play Básico,100 Mbps,TV Premium (200+ canales),Nacional + 100 min LD,Seguridad Digital,Ninguno,755.3,Activo,N/A,2020-06-03,,6
+SUS-200242,CLI-100243,Triple Play Básico,50 Mbps,TV Básico (80 canales),Local Ilimitado,HBO Max,Ninguno,834.19,Suspendido,N/A,2024-12-03,2026-08-15,12
+SUS-200243,CLI-100158,Triple Play Básico,100 Mbps,TV Estándar (120 canales),Nacional + 100 min LD,Star+,Disney+,717.54,Cancelado,Precio alto,2024-01-13,2025-01-19,12
+SUS-200244,CLI-100133,Triple Play Premium,200 Mbps,TV Estándar (120 canales),Nacional Ilimitado,Netflix,Ninguno,1284.32,Cancelado,No proporcionado,2020-10-08,2022-08-01,18
+SUS-200245,CLI-100058,Solo Internet,50 Mbps,N/A,N/A,Canales Premium,Ninguno,351.51,Pendiente de Pago,N/A,2025-02-05,,6
+SUS-200246,CLI-100144,Triple Play Premium,200 Mbps,TV Premium (200+ canales),Nacional Ilimitado,Netflix,Paramount+,1176.68,Activo,N/A,2023-10-24,,24
+SUS-200247,CLI-100145,Doble Play Internet+Teléfono,10 Mbps,N/A,Nacional Ilimitado,WiFi Mesh Extender,Ninguno,433.88,Cancelado,Mudanza fuera de cobertura,2023-10-23,2025-09-12,6
+SUS-200248,CLI-100098,Solo TV,N/A,TV Estándar (120 canales),N/A,Soporte VIP,WiFi Mesh Extender,378.13,Cancelado,Cambio a competencia,2022-06-21,2023-11-15,6
+SUS-200249,CLI-100180,Doble Play TV+Internet,50 Mbps,TV Básico (80 canales),N/A,Canales Premium,Ninguno,615.37,Activo,N/A,2021-01-15,,12
+SUS-200250,CLI-100122,Doble Play TV+Internet,20 Mbps,TV Estándar (120 canales),N/A,Disney+,Soporte VIP,670.13,Activo,N/A,2023-01-07,,12
